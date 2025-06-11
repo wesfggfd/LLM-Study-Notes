@@ -58,13 +58,13 @@
 
 ### 学习流程
 1. **跟随CS324 Calendar系统学习**
-   - [CS324 Calendar](https://stanford-cs324.github.io/calendar/)
+   - [CS324 Calendar](https://stanford-cs324.github.io/winter2022/calendar/)
    - 每周：
      - 预习Slides
      - 观看Lecture录像
      - 阅读推荐论文
      - 自主完成作业（Assignments）
-   - 项目（Project）：可独立或组队完成一个LLM创新项目，参考 [Projects 页面](https://stanford-cs324.github.io/projects/)
+   - 项目（Project）：可独立或组队完成一个LLM创新项目，参考 [Projects 页面](https://stanford-cs324.github.io/winter2022/projects/)
 
 2. **参与社区讨论&复现优秀项目**
    - 在GitHub、Reddit等社区找同好讨论
