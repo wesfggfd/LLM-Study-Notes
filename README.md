@@ -36,7 +36,14 @@
 ### 推荐学习材料
 1. **CS224n（深度NLP）部分章节**
    - 推荐：词嵌入、RNN/LSTM、Attention、Transformer、预训练语言模型（Lecture 7-11）
+   - 推荐：深度学习Hyperparameter tuning, Regularization and Optimization、CNN、Reinforcement Learning, etc.
+   - 推荐：算法设计与数据结构，对应Leetcode上面题型练习
+   - [CS230课程github链接](https://github.com/maxim5/cs230-2018-autumn)
+   - [CS230课程项目框架链接](https://cs230.stanford.edu/blog/)
    - [CS224n课程主页](https://web.stanford.edu/class/cs224n/)
+   - [CS161课程主页](https://stanford-cs161.github.io/winter2025/)
+   - [CS161课程github链接](https://github.com/adhaamehab/stanford-cs161)
+   - [CS161课程存档](https://web.stanford.edu/class/archive/cs/cs161/cs161.1176/)
 
 2. **精选论文精读（建议）**
    - Attention is All You Need
