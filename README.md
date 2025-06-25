@@ -11,15 +11,18 @@
 
 ### 推荐课程与步骤
 1. **Hugging Face LLM Course**  
-   - [LLM Course 官方入口](https://huggingface.co/learn/llm-course/chapter1/1)  
+   - [LLM Course 官方入口](https://huggingface.co/learn/llm-course/chapter1/1)
+   - [LLM Course HuggingFace Transformers 手把手带你实战](https://www.bilibili.com/video/BV1Tm4y1J7EF/)
    - 重点学习：
      - LLM基础原理
      - Transformers库使用
      - Prompt Engineering
-     - 微调与部署（Fine-tuning & Inference）
+     - NLP任务实战
+     - 高效微调与部署（Fine-tuning & Inference)
+     - 低精度训练
+     - 分布式训练
      - 常见实际应用（如问答、摘要、RAG等）
    - 每章都动手跑一遍官方notebook，建议整理代码笔记
-
 2. **补充实战：LangChain入门**  
    - 了解如何用LangChain构建LLM应用
    - [LangChain官方快速入门](https://python.langchain.com/docs/get_started/introduction)
@@ -34,16 +37,23 @@
 - 掌握Prompt、对齐、安全等LLM应用难点
 
 ### 推荐学习材料
-1. **CS224n（深度NLP）部分章节**
+1. **CS224n（深度NLP）部分章节 CS106B C++与 数据结构与算法 CS161 算法设计 CS107 计算机组成原理**
    - 推荐：词嵌入、RNN/LSTM、Attention、Transformer、预训练语言模型（Lecture 7-11）
    - 推荐：深度学习Hyperparameter tuning, Regularization and Optimization、CNN、Reinforcement Learning, etc.
-   - 推荐：算法设计与数据结构，对应Leetcode上面题型练习
+   - 推荐：C++算法设计与数据结构，对应Leetcode上面题型练习，结合CS106B和CS161并行学习
+   - 推荐：CS107,系统学习计算机底层原理
+   - [CS106B课程主页](https://web.stanford.edu/class/cs106b/)
+   - [CS106B课程视频](https://www.youtube.com/watch?v=Ua-31ucGAZ0&list=PLoCMsyE1cvdWiqgyzwAz_uGLSHsuYZlMX)
+   - [CS106B课程github链接](https://github.com/zelenski/stanford-cpp-library)
    - [CS230课程github链接](https://github.com/maxim5/cs230-2018-autumn)
    - [CS230课程项目框架链接](https://cs230.stanford.edu/blog/)
    - [CS224n课程主页](https://web.stanford.edu/class/cs224n/)
    - [CS161课程主页](https://stanford-cs161.github.io/winter2025/)
    - [CS161课程github链接](https://github.com/adhaamehab/stanford-cs161)
    - [CS161课程存档](https://web.stanford.edu/class/archive/cs/cs161/cs161.1176/)
+   - [CS107课程主页](https://web.stanford.edu/class/cs107/)
+   - [CS107课程视频🔗](https://www.youtube.com/watch?v=xuRkyNqqecc&list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN)
+   - [CS107课程GitHub🔗](https://github.com/cs107e/cs107e.github.io.git)
 
 2. **精选论文精读（建议）**
    - Attention is All You Need
