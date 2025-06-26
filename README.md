@@ -51,7 +51,7 @@
    - [CS161课程主页](https://stanford-cs161.github.io/winter2025/)
    - [CS161课程github链接](https://github.com/adhaamehab/stanford-cs161)
    - [CS161课程存档](https://web.stanford.edu/class/archive/cs/cs161/cs161.1176/)
-   - [CS107课程主页](https://web.stanford.edu/class/cs107/)
+   - [CS107课程主页](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/)
    - [CS107课程视频🔗](https://www.youtube.com/watch?v=xuRkyNqqecc&list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN)
    - [CS107课程GitHub🔗](https://github.com/cs107e/cs107e.github.io.git)
 
