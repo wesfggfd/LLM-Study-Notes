@@ -42,7 +42,7 @@
    - 推荐：深度学习Hyperparameter tuning, Regularization and Optimization、CNN、Reinforcement Learning, etc.
    - 推荐：C++算法设计与数据结构，对应Leetcode上面题型练习，结合CS106B和CS161并行学习
    - 推荐：CS107,系统学习计算机底层原理
-   - [CS106B课程主页](https://web.stanford.edu/class/cs106b/)
+   - [CS106B课程主页](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1224/)
    - [CS106B课程视频](https://www.youtube.com/watch?v=Ua-31ucGAZ0&list=PLoCMsyE1cvdWiqgyzwAz_uGLSHsuYZlMX)
    - [CS106B课程github链接](https://github.com/zelenski/stanford-cpp-library)
    - [CS230课程github链接](https://github.com/maxim5/cs230-2018-autumn)
