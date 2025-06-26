@@ -48,7 +48,7 @@
    - [CS230课程github链接](https://github.com/maxim5/cs230-2018-autumn)
    - [CS230课程项目框架链接](https://cs230.stanford.edu/blog/)
    - [CS224n课程主页](https://web.stanford.edu/class/cs224n/)
-   - [CS161课程主页](https://stanford-cs161.github.io/winter2025/)
+   - [CS161课程主页](https://stanford-cs161.github.io/winter2022/)
    - [CS161课程github链接](https://github.com/adhaamehab/stanford-cs161)
    - [CS161课程存档](https://web.stanford.edu/class/archive/cs/cs161/cs161.1176/)
    - [CS107课程主页](https://web.stanford.edu/class/archive/cs/cs107/cs107.1224/)
